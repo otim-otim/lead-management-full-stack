@@ -21,7 +21,7 @@ Ensure the following tools are installed:
 1. **Clone the Repository**  
    Clone the repository to your local machine:  
    ```bash
-   git clone https://github.com/otim-otim/lead-management-full-stack.git
+   git clone https://github.com/otim-otim/lead-management-BE.git
    cd lead-be
 2.  **Install Dependencies**
     ```bash
@@ -79,7 +79,11 @@ Ensure the following tools are installed:
 
 ## **Setup Instructions**
 
-1.  **Install Frontend Dependencies**
+1.  **clone the project**
+    ```bash
+    git clone https://github.com/otim-otim/lead-management-FE.git
+    
+2.  **Install Frontend Dependencies**
     ```bash
     npm install
     npm run dev
